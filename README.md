@@ -1,1 +1,2 @@
 # Task-Scheduler
+This C++ project implements a task scheduling system for prioritizing tasks based on their importance, such as Teaching, Research, Academic, and Administrative duties. Users can add tasks, view the highest priority task, see the next priority task, and manage their task list efficiently. The program uses a priority queue to ensure that the most critical tasks are addressed first, helping to optimize time management for busy schedules.
